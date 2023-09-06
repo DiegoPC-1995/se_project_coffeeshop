@@ -2,7 +2,9 @@
   min-width: 1100px;
   max-width: 1600px;
   margin: auto;
-  font: 16px/20px "Inter", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: "Inter", Arial, sans-serif;
 }
 
 .header {
@@ -72,7 +74,7 @@
   right: 5px;
 }
 
-.header__image_library {
+.header__library {
   width: 646px;
   height: 568px;
 }
@@ -121,6 +123,7 @@
 .recipes__iframe {
   width: 480px;
   height: 273px;
+  border: none;
 }
 
 .recipes__video-caption {
