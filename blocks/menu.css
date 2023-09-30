@@ -1,4 +1,4 @@
-.card {
+.menu {
   padding: 100px 0 100px;
   background-color: #fff;
   background-image: url(/images/background_menu.svg);
@@ -7,7 +7,7 @@
   background-size: cover;
 }
 
-.card__heading {
+.menu__title {
   padding: 0;
   margin: auto;
   text-align: center;
@@ -19,7 +19,7 @@
   line-height: 52px;
 }
 
-.card__subtitle {
+.menu__subtitle {
   padding: 24px 0 100px;
   margin: auto;
   text-align: center;
@@ -31,7 +31,7 @@
   line-height: 30px;
 }
 
-.cards__menu {
+.menu__cards {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -41,11 +41,11 @@
   list-style-type: none;
 }
 
-.cards {
+.card {
   width: 540px;
 }
 
-.cards__title {
+.card__title {
   margin: 0 0 32px;
   font-family: "Inter";
   font-style: normal;
