@@ -1,4 +1,4 @@
-.menu {
+.card {
   padding: 100px 0 100px;
   background-color: #fff;
   background-image: url(/images/background_menu.svg);
@@ -7,7 +7,7 @@
   background-size: cover;
 }
 
-.menu__title {
+.card__title {
   padding: 0;
   margin: auto;
   text-align: center;
@@ -19,7 +19,7 @@
   line-height: 52px;
 }
 
-.menu__subtitle {
+.card__subtitle {
   padding: 24px 0 100px;
   margin: auto;
   text-align: center;
@@ -31,7 +31,7 @@
   line-height: 30px;
 }
 
-.menu__cards {
+.cards__menu {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
