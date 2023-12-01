@@ -2,6 +2,9 @@
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
+URL on GitHub Pages:
+https://diegopc-1995.github.io/se_project_coffeeshop/index.html
+
 ## Project features
 
 - Semantic HTML5
